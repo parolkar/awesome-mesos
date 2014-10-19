@@ -8,6 +8,10 @@ Your contributions are always welcome!
 
 * [Babushka-mesos](https://github.com/parolkar/mesos-babushka) - babushka-deps to provision Apache Mesos.
 
+## Mesos Frameworks
+
+* [Marathon](https://github.com/mesosphere/marathon) - Cluster-wide init and control system (or PaaS layer) for services in cgroups or Docker containers based on Apache Mesos.
+
 
 ## Mesos Deployments
 
